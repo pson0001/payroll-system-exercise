@@ -1,0 +1,14 @@
+.navLayout {
+  width: 80%;
+  margin: 3% auto 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navLink {
+  color: #9aaec4;
+}
+.signout {
+  color: white;
+  text-decoration: underline;
+}

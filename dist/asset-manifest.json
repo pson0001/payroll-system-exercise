@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c0ef8e.chunk.css",
+    "main.js": "/static/js/main.57499238.chunk.js",
+    "main.js.map": "/static/js/main.57499238.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.520e3592.chunk.js": "/static/js/2.520e3592.chunk.js",
+    "static/js/2.520e3592.chunk.js.map": "/static/js/2.520e3592.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4a04f539ee224c976f169508c024481f.js": "/precache-manifest.4a04f539ee224c976f169508c024481f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.51c0ef8e.chunk.css.map": "/static/css/main.51c0ef8e.chunk.css.map",
+    "static/media/Plant.svg": "/static/media/Plant.1faf5405.svg",
+    "static/media/blueBg.svg": "/static/media/blueBg.c83877df.svg",
+    "static/media/blueSection.svg": "/static/media/blueSection.03d6c14d.svg",
+    "static/media/coinBlue.svg": "/static/media/coinBlue.5662027d.svg",
+    "static/media/coinOrange.svg": "/static/media/coinOrange.dd6d93e9.svg",
+    "static/media/formBlue.svg": "/static/media/formBlue.69f695ca.svg",
+    "static/media/formOrange.svg": "/static/media/formOrange.1f405b46.svg",
+    "static/media/round-clear-24px.svg": "/static/media/round-clear-24px.84e833e5.svg"
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>coin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC279" offset="0%"></stop>
+            <stop stop-color="#F89763" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1216.000000, -287.000000)">
+            <g id="coin" transform="translate(1216.000000, 287.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="32" cy="32" r="32"></circle>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="32.5" cy="31.5" r="23.5"></circle>
+                <text id="$" font-family="Avenir-Medium, Avenir" font-size="32" font-weight="400" fill="#FFFFFF">
+                    <tspan x="24" y="42">$</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

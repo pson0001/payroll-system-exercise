@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1338px" height="933px" viewBox="0 0 1338 933" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-102.000000, -91.000000)">
+            <g id="Group" transform="translate(102.179258, 91.498252)">
+                <path d="M0,932.12216 C0,932.12216 21.6768015,912.358328 86.096102,904.096629 C150.515402,895.83493 260.084579,906.814674 316.688704,863.255699 C373.29283,819.696724 352.659006,729.27217 393.266726,667.617044 C433.874445,605.961918 472.870092,589.132925 592.886172,577.644359 C712.902251,566.155792 743.029362,436.219487 753.566334,373.314515 C764.103306,310.409544 795.11919,205.195348 904.820742,184.339883 C1014.52229,163.484418 1086.82074,240.158455 1176.64874,141.071328 C1266.47675,41.9842005 1290.85153,8.75794836 1337.82074,0 C1337.82074,60.0302763 1337.82074,370.530859 1337.82074,931.501748 C790.94155,931.915356 345.001303,932.12216 0,932.12216 Z" id="Path" fill="#EDF5FC"></path>
+                <circle id="Oval" stroke="#9AAEC4" stroke-width="2" cx="790.820742" cy="357.501748" r="14"></circle>
+                <circle id="Oval" stroke="#9AAEC4" stroke-width="2" cx="1191.82074" cy="691.501748" r="14"></circle>
+                <circle id="Oval" stroke="#9AAEC4" stroke-width="2" cx="924.820742" cy="787.501748" r="14"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

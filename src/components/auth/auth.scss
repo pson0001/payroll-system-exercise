@@ -1,0 +1,174 @@
+.formSection {
+  width: 40%;
+  margin: 10% 0 0 10%;
+}
+.subDesc {
+  line-height: 24px;
+}
+
+#password {
+  -webkit-text-security: disc;
+}
+.form {
+  margin: 10% 0 0 5%;
+
+  // .inputClass {
+  //   position: relative;
+
+  //   width: 100%;
+  //   margin-bottom: 2rem;
+
+  //   &.-float {
+  //     > .field {
+  //       height: 2.4rem;
+  //       text-indent: 12px;
+  //       border-radius: 100px;
+  //       border: 1px solid #ddd;
+
+  //       &:focus,
+  //       &:valid {
+  //         border-color: #9aaec4;
+
+  //         + .title {
+  //           top: 0;
+  //           color: #9aaec4;
+  //         }
+  //       }
+
+  //       + .title {
+  //         left: 10px;
+  //         padding: 0 0.5rem;
+  //         background-color: #fff;
+  //       }
+  //     }
+  //   }
+
+  //   > .field {
+  //     width: 100%;
+
+  //     border: 0;
+  //     outline: none;
+
+  //     + .title {
+  //       position: absolute;
+  //       top: 50%;
+  //       transform: translateY(-50%);
+
+  //       color: #9e9e9e;
+  //       transition: 0.3s;
+  //       font-size: 0.9rem;
+  //       pointer-events: none;
+  //     }
+
+  //     &:focus,
+  //     &:valid {
+  //       + .title {
+  //         transition: 0.3s;
+  //         font-size: 0.75rem;
+  //       }
+  //     }
+  //   }
+  // }
+}
+.graphicBg {
+  width: 100%;
+  height: 20vh;
+  margin: auto;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+
+  .blueBg {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 900px;
+  }
+  .formBlue {
+    position: absolute;
+    bottom: 100%;
+    right: 20%;
+    width: 180px;
+    //animation: formBlue 3.6s ease-in-out infinite;
+  }
+  .formOrange {
+    position: absolute;
+    bottom: 220%;
+    right: 10%;
+    width: 180px;
+    //animation: formOrange 3.6s ease-in-out infinite;
+  }
+  .coinBlue {
+    position: absolute;
+    bottom: 40%;
+    right: 27%;
+    width: 40px;
+    animation: coinBlue 3.6s ease-in-out infinite;
+  }
+  .coinOrange {
+    position: absolute;
+    bottom: 220%;
+    right: 30%;
+    width: 40px;
+    animation: formBlue 3.6s ease-in-out infinite;
+  }
+  .coinOrangeSecond {
+    position: absolute;
+    bottom: 340%;
+    right: 10%;
+    width: 40px;
+    animation: formBlue 3.6s ease-in-out infinite;
+  }
+  .plant {
+    position: absolute;
+    bottom: 15%;
+    right: 10%;
+    width: 150px;
+  }
+}
+
+@keyframes formBlue {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes formOrange {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes coinBlue {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(5px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.errorMessage {
+  color: #d96729;
+}

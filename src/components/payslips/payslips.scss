@@ -1,0 +1,103 @@
+.generate {
+  margin-top: 3%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  & .generateFrom {
+    margin: 5% 0;
+    width: 400px;
+  }
+}
+.generateButton {
+  width: 400px;
+}
+.blueSection {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+.confirmationModal {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  .modalBg {
+    width: 600px;
+    height: 600px;
+    background: white;
+    margin: 50px auto 0;
+    border-radius: 2px;
+    box-shadow: 0px 5px 20px 10px rgba(0, 0, 0, 0.05);
+  }
+}
+.close {
+  float: right;
+  margin: 20px;
+}
+
+.modalTable {
+  float: left;
+  margin: 0 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  .modalTitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+}
+table {
+  width: 100%;
+  th,
+  td {
+    width: 200px;
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #9aaec4;
+  }
+  th {
+    color: #9aaec4;
+    font-weight: 16px;
+  }
+}
+.modalButton {
+  margin-top: 40px;
+  width: 100%;
+}
+.dashboardTable {
+  width: 75%;
+  margin: 70px auto;
+  > div {
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-weight: 900;
+  }
+}
+.newButton {
+  position: absolute;
+  right: 12.5%;
+}
+.preview {
+  width: 40%;
+  margin: 70px auto;
+  > div {
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-weight: 900;
+  }
+  table {
+    margin-bottom: 50px;
+  }
+}
+.backButton {
+  margin-top: 30px;
+}
+.viewButton {
+  color: #d96729;
+}
